@@ -42,11 +42,11 @@
 ## 🛠 スキル・使用技術
 
 - 言語・環境：C（組込みLinux）, Python
-- フレームワーク・ツール：TeraTerm, .bat, Matplotlib, GitHub, VSCode
+- フレームワーク・ツール：TeraTerm, .bat, Matplotlib, GitHub, VSCode, Adobe Premiere Pro
 - データ処理：SQLite, yfinance, pandas
 - クラウド：AWS Lambda, API Gateway, DynamoDB, EventBridge
 - 外部API連携：ChatGPT API, LINE Messaging API
-- その他：自動試験スクリプト設計、チームマネジメント、ドキュメント作成
+- その他：自動試験スクリプト設計、チームマネジメント、ドキュメント作成、映像編集（教育・子ども向け動画）
 
 ## 🧪 学習・構想中の技術
 
