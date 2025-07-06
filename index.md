@@ -13,7 +13,7 @@
 |----------|------|------|--------|
 | **炎上目前のプロジェクトを現場経験1年の派遣人員が再建した記録**<br><small>― 技術と対話でリカバリを実現した現場改善ドキュメント</small> | .bat, TeraTermマクロ, チームマネジメント | 試験自動化とコミュニケーション施策により遅延プロジェクトを立て直した実体験ベースの記録 | （準備中） |
 | **高ボラ銘柄リバウンド戦略投機バックテストプログラム**<br><small>― ATR, RSI, ボリンジャーバンドを用いた反発狙いアルゴリズムの再現検証</small> | Python, yfinance, SQLite, テクニカル分析（RSI/ATR/BB） | 高ボラ銘柄の短期反発を狙ったバックテスト戦略。買い条件・売り条件を詳細にロジック化し、トレードログ・グラフ出力まで実装 | （改修中・近日公開予定） |
-| **LINE予定管理おしゃべり文鳥Bot**<br><small>― ChatGPT + AWS連携で構築した対話型スケジューラーBot（DynamoDB管理・通知機能つき）</small> | AWS Lambda, API Gateway, DynamoDB, ChatGPT API, EventBridge | LINEに話しかけると、雑談もできて予定も登録できる「文鳥Bot」。ChatGPTロール指示付きで会話生成、予定はJSON形式で抽出しDB登録。2分毎にDB監視し、通知も送信 | https://github.com/hikarin0711/line-chatbird-planner |
+| **LINE予定管理おしゃべり文鳥Bot**<br><small>― ChatGPT + AWS連携で構築した対話型スケジューラーBot（DynamoDB管理・通知機能つき）</small> | AWS Lambda, API Gateway, DynamoDB, ChatGPT API, EventBridge | LINEに話しかけると、雑談もできて予定も登録できる「文鳥Bot」。ChatGPTロール指示付きで会話生成、予定はJSON形式で抽出しDB登録。2分毎にDB監視し、通知も送信 | [GitHub リポジトリ](https://github.com/hikarin0711/line-chatbird-planner) |
 | **美大予備校学生・課題管理システム**<br><small>― 複数講師での進捗管理と学生の成長可視化を支援する課題提出Webシステム</small> | AWSサーバーレス構成（Lambda, API Gateway, DynamoDB, S3, Cognito） + React（TypeScript）, JWT認証・署名検証対応 | 課題投稿・履歴表示・講師間共有を可能にする学生課題管理システム。現役講師の声を元に要件設計中 | （制作予定） |
 
 ---
